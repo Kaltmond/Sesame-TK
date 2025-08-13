@@ -30,7 +30,7 @@ public class Status {
     private Map<String, Integer> reserveLogList = new HashMap<>();
     private Set<String> ancientTreeCityCodeList = new HashSet<>();//古树
     private Set<String> protectBubbleList = new HashSet<>();
-    private int exchangeDoubleCard = 0; // 活力值兑换双倍卡
+    private int exchangeDoubleCard = 0; // 活力值兑换双倍卡测试
     private int exchangeTimes = 0;
     private int exchangeTimesLongTime = 0;
     private int doubleTimes = 0;
